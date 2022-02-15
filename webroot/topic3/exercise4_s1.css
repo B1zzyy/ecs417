@@ -1,0 +1,90 @@
+/* header style */
+header {
+    position:relative;
+    left: 0.5%;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 3em; 
+    color: white;
+}    
+/* under header style */
+un {
+    position:relative;
+    left: 0.5%;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 1em;
+    margin-left: 0.1em;
+    color: white;
+}
+
+/* colour of the top banner */
+.topbanner {
+    background-color: #024CB1;
+}
+
+/* style of navigation banner */
+li {
+    float: left;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 0.5em 0.7em;
+}
+ 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #018EB7;
+}
+
+/* body colour */
+.infocolour {
+    background-color: white;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+/* underline */
+hr.underline {
+    border-top: 1px solid rgb(0, 0, 0);
+    margin: 0.4%;
+}
+
+/* image border */
+.imgborder {
+    border: 1px solid black;
+}
+
+/* footer colour */
+footer {
+    background-color: #024CB1;
+}
+
+/* hyperlink colours */
+a:link {
+    color: orange;
+}
+
+a:visited {
+    color: red;
+}
+
+a:hover {
+    color: pink;
+}
+
+/* figure caption colour */
+figcaption {
+    font-family: Chalkduster, fantasy;
+    font-size: 0.75em;
+    color: rgb(38, 53, 102);
+}
+
+p, h2 {
+    position:relative;
+    left: 0.5%;
+}
