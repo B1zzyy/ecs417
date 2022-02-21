@@ -1,0 +1,54 @@
+legend {
+    text-align: center;
+    color: white;
+    font-size: 30pt;
+}
+
+form {
+    background-color: #0768f1;
+    width: 80%;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+p {
+    color: white;
+}
+
+label {
+    font-size: 15pt;
+}
+
+.submitButton {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 15pt 15pt;
+    text-align: center;
+    text-decoration: none;
+    font-size: 11pt;
+    border-radius: 15%;
+}
+
+.submitButton:hover {
+    background-color: #3c913f;
+}
+
+.clearButton {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    padding: 15pt 15pt;
+    text-align: center;
+    text-decoration: none;
+    font-size: 11pt;
+    border-radius: 15%;
+}
+
+.clearButton:hover {
+    background-color: #ce382d;
+}
+
+
+
